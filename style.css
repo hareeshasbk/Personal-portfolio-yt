@@ -172,12 +172,12 @@ main hr {
 }
 
 .experience-cards {
-  display: flex;
-  gap: 32px;
-  justify-content: center;
-  align-items: stretch;
-  margin: 60px auto 0 auto;
-  flex-wrap: wrap;
+display: flex;
+gap: 32px;
+justify-content: center;
+align-items: stretch;
+margin: 60px auto 60px auto;
+flex-wrap: wrap;
 }
 
 .exp-card {
